@@ -1,0 +1,7 @@
+dir -> listar as pastas
+cd -> navegar entre as pastas
+cd .. -> voltar uma pasta
+cls -> limpar os comandos
+mkdir (nome) -> criar pasta
+rename (nome atual) (novo nome) -> renomear pasta
+rmdir /s (nome do projeto) -> apagar arquivo
